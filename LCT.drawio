@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-21T15:37:03.219Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="JJYsl4PtZ_HcDfdCujwZ" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-21T15:39:35.243Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="VGUX7j7oWB79mr-dhuPd" version="21.7.1" type="github">
   <diagram name="페이지-1" id="j2yFghRVwuGQoitiAyQ0">
     <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,13 +8,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eIThkSBVGZAdPtDnnVyc-1" value="전투 패턴 공격1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="545" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eIThkSBVGZAdPtDnnVyc-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eIThkSBVGZAdPtDnnVyc-2" target="eIThkSBVGZAdPtDnnVyc-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eIThkSBVGZAdPtDnnVyc-2" value="전투 패턴 공격2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="765" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eIThkSBVGZAdPtDnnVyc-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eIThkSBVGZAdPtDnnVyc-3" target="eIThkSBVGZAdPtDnnVyc-6">
           <mxGeometry relative="1" as="geometry" />
@@ -23,28 +23,27 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eIThkSBVGZAdPtDnnVyc-3" value="근접전투&lt;br&gt;거리인가" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="290" width="80" height="80" as="geometry" />
+          <mxGeometry x="280" y="335" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eIThkSBVGZAdPtDnnVyc-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eIThkSBVGZAdPtDnnVyc-5" target="eIThkSBVGZAdPtDnnVyc-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eIThkSBVGZAdPtDnnVyc-5" value="보스전 이벤트시작" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=1;arcSize=43;" vertex="1" parent="1">
-          <mxGeometry x="170" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="85" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eIThkSBVGZAdPtDnnVyc-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eIThkSBVGZAdPtDnnVyc-6" target="eIThkSBVGZAdPtDnnVyc-3">
+        <mxCell id="eIThkSBVGZAdPtDnnVyc-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eIThkSBVGZAdPtDnnVyc-6" target="eIThkSBVGZAdPtDnnVyc-30">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="470" y="330" />
-              <mxPoint x="470" y="280" />
-              <mxPoint x="250" y="280" />
+              <mxPoint x="560" y="375" />
+              <mxPoint x="560" y="225" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="eIThkSBVGZAdPtDnnVyc-6" value="전투거리까지 이동" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="345" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eIThkSBVGZAdPtDnnVyc-12" value="아니요" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="266" y="306" width="60" height="30" as="geometry" />
+          <mxGeometry x="356" y="351" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eIThkSBVGZAdPtDnnVyc-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eIThkSBVGZAdPtDnnVyc-21" target="eIThkSBVGZAdPtDnnVyc-2">
           <mxGeometry relative="1" as="geometry" />
@@ -52,13 +51,13 @@
         <mxCell id="eIThkSBVGZAdPtDnnVyc-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eIThkSBVGZAdPtDnnVyc-21" target="eIThkSBVGZAdPtDnnVyc-30">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="610" y="640" />
-              <mxPoint x="610" y="180" />
+              <mxPoint x="700" y="685" />
+              <mxPoint x="700" y="225" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="eIThkSBVGZAdPtDnnVyc-21" value="확률 50%" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="600" width="80" height="80" as="geometry" />
+          <mxGeometry x="280" y="645" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eIThkSBVGZAdPtDnnVyc-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eIThkSBVGZAdPtDnnVyc-25" target="eIThkSBVGZAdPtDnnVyc-27">
           <mxGeometry relative="1" as="geometry" />
@@ -66,50 +65,50 @@
         <mxCell id="eIThkSBVGZAdPtDnnVyc-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eIThkSBVGZAdPtDnnVyc-25" target="eIThkSBVGZAdPtDnnVyc-30">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="610" y="880" />
-              <mxPoint x="610" y="180" />
+              <mxPoint x="700" y="925" />
+              <mxPoint x="700" y="225" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="eIThkSBVGZAdPtDnnVyc-25" value="확률 50%" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="840" width="80" height="80" as="geometry" />
+          <mxGeometry x="280" y="885" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eIThkSBVGZAdPtDnnVyc-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eIThkSBVGZAdPtDnnVyc-27" target="eIThkSBVGZAdPtDnnVyc-30">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="610" y="990" />
-              <mxPoint x="610" y="180" />
+              <mxPoint x="700" y="1035" />
+              <mxPoint x="700" y="225" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="eIThkSBVGZAdPtDnnVyc-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eIThkSBVGZAdPtDnnVyc-27" target="eIThkSBVGZAdPtDnnVyc-30">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="230" y="1040" />
-              <mxPoint x="80" y="1040" />
-              <mxPoint x="80" y="180" />
+              <mxPoint x="320" y="1085" />
+              <mxPoint x="170" y="1085" />
+              <mxPoint x="170" y="225" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="eIThkSBVGZAdPtDnnVyc-27" value="전투 패턴 공격3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="960" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="1005" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eIThkSBVGZAdPtDnnVyc-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eIThkSBVGZAdPtDnnVyc-30" target="eIThkSBVGZAdPtDnnVyc-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eIThkSBVGZAdPtDnnVyc-30" value="기본상태" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="195" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eIThkSBVGZAdPtDnnVyc-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eIThkSBVGZAdPtDnnVyc-38" target="eIThkSBVGZAdPtDnnVyc-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eIThkSBVGZAdPtDnnVyc-38" value="페이즈1인가" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="390" width="80" height="80" as="geometry" />
+          <mxGeometry x="280" y="435" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eIThkSBVGZAdPtDnnVyc-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eIThkSBVGZAdPtDnnVyc-39" target="eIThkSBVGZAdPtDnnVyc-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="390" y="530" />
+              <mxPoint x="480" y="575" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -117,25 +116,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eIThkSBVGZAdPtDnnVyc-39" value="쫄페이즈&lt;br&gt;인가" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="390" width="80" height="80" as="geometry" />
+          <mxGeometry x="440" y="435" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eIThkSBVGZAdPtDnnVyc-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eIThkSBVGZAdPtDnnVyc-42" target="eIThkSBVGZAdPtDnnVyc-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eIThkSBVGZAdPtDnnVyc-42" value="임의 좌표로 순간이동 후 동료소환" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="444" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="534" y="705" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eIThkSBVGZAdPtDnnVyc-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eIThkSBVGZAdPtDnnVyc-44" target="eIThkSBVGZAdPtDnnVyc-30">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="504" y="820" />
-              <mxPoint x="80" y="820" />
-              <mxPoint x="80" y="180" />
+              <mxPoint x="594" y="865" />
+              <mxPoint x="170" y="865" />
+              <mxPoint x="170" y="225" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="eIThkSBVGZAdPtDnnVyc-44" value="쫄 페이즈 시작" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="444" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="534" y="785" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eIThkSBVGZAdPtDnnVyc-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eIThkSBVGZAdPtDnnVyc-46" target="eIThkSBVGZAdPtDnnVyc-1">
           <mxGeometry relative="1" as="geometry" />
@@ -144,7 +143,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eIThkSBVGZAdPtDnnVyc-46" value="확률 10%" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="464" y="390" width="80" height="80" as="geometry" />
+          <mxGeometry x="554" y="435" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eIThkSBVGZAdPtDnnVyc-53" value="1스테이지 중간보스A - 전투흐름도" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="10" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
