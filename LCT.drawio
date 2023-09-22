@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-21T15:54:31.331Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="tWuAkB4kwylpa-29KQw3" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-22T07:15:59.512Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="tFv09UvR3tsNPywD3hdL" version="21.7.1" type="github">
   <diagram name="페이지-1" id="j2yFghRVwuGQoitiAyQ0">
     <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -146,7 +146,7 @@
           <mxGeometry x="554" y="435" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eIThkSBVGZAdPtDnnVyc-53" value="1스테이지 중간보스A - 전투흐름도" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="20" y="10" width="210" height="30" as="geometry" />
+          <mxGeometry x="330" y="10" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
